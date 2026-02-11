@@ -1,5 +1,6 @@
 # 🧬 Project Setup Guide
-![Zindi Competition Image](https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/competition/image/591/thumb_f7f99618-bc3d-44db-acfa-39b971d7472f.png)
+<img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/competition/image/591/thumb_f7f99618-bc3d-44db-acfa-39b971d7472f.png" width="400"/>
+
 
 ## 📍 Overview
 
