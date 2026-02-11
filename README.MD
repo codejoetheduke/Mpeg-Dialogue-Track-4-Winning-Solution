@@ -1,5 +1,5 @@
 # 🧬 Project Setup Guide
-<img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/competition/image/591/thumb_f7f99618-bc3d-44db-acfa-39b971d7472f.png" width="600"/>
+<img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/competition/image/591/thumb_f7f99618-bc3d-44db-acfa-39b971d7472f.png" width="400" align='center'/>
 
 
 ## 📍 Overview
